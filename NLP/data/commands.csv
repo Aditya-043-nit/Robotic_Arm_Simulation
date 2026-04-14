@@ -1,0 +1,1201 @@
+sentence,intent
+"fetch the small red glass spoon from table two and put it on assembly table",pick_and_place
+"place the blue cube on mat",place_object
+"bring the medium white round tool from right shelf and place it on basket",pick_and_place
+"take the small red apple",pick_object
+"drop the yellow can on drop tray",place_object
+"set the red packet on assembly table",place_object
+"grab the tiny gray screwdriver",pick_object
+"go to table one",go_to_location
+"fetch the small gray box",pick_object
+"navigate to tool stand",go_to_location
+"take the big yellow jar",pick_object
+"put the orange remote on assembly table",place_object
+"find the medium orange plate near drawer",search_object
+"go to bottom rack",go_to_location
+"navigate to storage bin",go_to_location
+"find the small blue tool near top rack",search_object
+"put the black can on target box",place_object
+"take the big blue box",pick_object
+"go to bottom rack",go_to_location
+"go to bottom rack",go_to_location
+"place the green can on inspection zone",place_object
+"grab the tiny blue plastic can from tray one and drop it on basket",pick_and_place
+"take the tiny yellow light spoon from bin a and put it on holder",pick_and_place
+"put the gray plate on tray two",place_object
+"put the gray screwdriver on packing area",place_object
+"move to storage bin",go_to_location
+"go to top rack",go_to_location
+"bring the small orange glass bottle from zone a and place it on station three",pick_and_place
+"pick the tiny yellow light jar from zone a and put it on center table",pick_and_place
+"take the small white ball",pick_object
+"set the gray wrench on assembly table",place_object
+"pick the large green box",pick_object
+"put the black jar on target box",place_object
+"set the red apple on carton",place_object
+"navigate to bottom rack",go_to_location
+"go to crate",go_to_location
+"navigate to table one",go_to_location
+"locate the tiny purple packet near tool stand",search_object
+"go to workbench",go_to_location
+"take the small black round screwdriver from station two and set it on container",pick_and_place
+"fetch the tiny blue square packet from bin b and put it on mat",pick_and_place
+"drop the brown mug on holder",place_object
+"find the big blue jar near table two",search_object
+"go to storage bin",go_to_location
+"set the brown ball on container",place_object
+"bring the small green mug",pick_object
+"look for the large white tool near drawer",search_object
+"fetch the small yellow square cup from tool stand and set it on packing area",pick_and_place
+"move to right shelf",go_to_location
+"navigate to loading bay",go_to_location
+"go to bin a",go_to_location
+"fetch the small red metal block from tray one and place it on inspection zone",pick_and_place
+"grab the big gray plate",pick_object
+"take the big gray cup",pick_object
+"bring the tiny black spoon",pick_object
+"move to tray one",go_to_location
+"drop the gray tool on mat",place_object
+"fetch the tiny blue plastic box from left shelf and set it on mat",pick_and_place
+"put the brown bottle on basket",place_object
+"place the red marker on bin d",place_object
+"take the tiny orange light jar from table two and set it on bin c",pick_and_place
+"place the blue wrench on bowl",place_object
+"search for the large purple bottle near tool stand",search_object
+"set the orange spoon on packing area",place_object
+"go to table one",go_to_location
+"locate the medium black can near top rack",search_object
+"locate the medium black wrench near top rack",search_object
+"go to table one",go_to_location
+"take the medium red mug",pick_object
+"pick the medium brown glass apple from top rack and place it on output bin",pick_and_place
+"look for the big gray cube near table one",search_object
+"pick the tiny white heavy remote from table one and set it on assembly table",pick_and_place
+"put the red plate on target box",place_object
+"navigate to station one",go_to_location
+"bring the tiny orange metal marker from top rack and drop it on assembly table",pick_and_place
+"find the large orange mug near station one",search_object
+"navigate to tool stand",go_to_location
+"drop the brown cube on output bin",place_object
+"fetch the big gray can",pick_object
+"put the brown ball on center table",place_object
+"navigate to bin a",go_to_location
+"bring the big yellow book",pick_object
+"locate the large red remote near tray one",search_object
+"bring the tiny blue cup",pick_object
+"go to top rack",go_to_location
+"navigate to bottom rack",go_to_location
+"take the small yellow marker",pick_object
+"navigate to zone a",go_to_location
+"place the red packet on packing area",place_object
+"move to bin b",go_to_location
+"go to table one",go_to_location
+"move to station one",go_to_location
+"grab the large red metal can from kitchen counter and set it on holder",pick_and_place
+"fetch the medium brown wooden spoon from tool stand and place it on inspection zone",pick_and_place
+"locate the big purple ball near table two",search_object
+"take the big red square wrench from station two and put it on bowl",pick_and_place
+"pick the big purple tool",pick_object
+"locate the large white remote near zone b",search_object
+"bring the big red heavy block from zone a and put it on packing area",pick_and_place
+"bring the medium gray fragile wrench from zone b and drop it on bin c",pick_and_place
+"bring the medium green light plate from bin a and drop it on bin d",pick_and_place
+"place the purple marker on target box",place_object
+"move to bin b",go_to_location
+"take the small purple bottle",pick_object
+"locate the small yellow tool near bin a",search_object
+"move to table two",go_to_location
+"move to bin a",go_to_location
+"locate the large blue ball near bin a",search_object
+"go to left shelf",go_to_location
+"go to tray one",go_to_location
+"put the purple spoon on shelf two",place_object
+"fetch the tiny red cube",pick_object
+"grab the big purple plate",pick_object
+"put the white box on basket",place_object
+"move to workbench",go_to_location
+"locate the small gray mug near bottom rack",search_object
+"bring the small white bottle",pick_object
+"fetch the medium blue fragile remote from bin b and set it on desk",pick_and_place
+"find the small white plate near tool stand",search_object
+"pick the large blue round jar from drawer and set it on mat",pick_and_place
+"search for the medium orange banana near station two",search_object
+"grab the small green round cup from zone a and drop it on bin c",pick_and_place
+"bring the big yellow metal remote from top rack and drop it on bin d",pick_and_place
+"locate the big black jar near right shelf",search_object
+"search for the large orange cube near tray one",search_object
+"fetch the big green mug",pick_object
+"locate the big blue block near tray one",search_object
+"set the brown packet on assembly table",place_object
+"bring the big orange apple",pick_object
+"find the large yellow marker near kitchen counter",search_object
+"fetch the medium gray light wrench from top rack and put it on bin d",pick_and_place
+"locate the small green spoon near zone a",search_object
+"fetch the medium yellow can",pick_object
+"fetch the big green light apple from tray one and drop it on basket",pick_and_place
+"fetch the medium white box",pick_object
+"fetch the big green can",pick_object
+"go to tray one",go_to_location
+"fetch the small green light jar from bin b and drop it on shelf two",pick_and_place
+"fetch the medium black wrench",pick_object
+"go to table two",go_to_location
+"drop the black apple on bin d",place_object
+"set the gray banana on drop tray",place_object
+"search for the large blue box near drawer",search_object
+"place the black cup on holder",place_object
+"set the purple ball on center table",place_object
+"grab the large purple square wrench from station one and place it on container",pick_and_place
+"pick the small green wooden marker from tool stand and set it on desk",pick_and_place
+"search for the tiny green marker near zone b",search_object
+"find the large orange spoon near bottom rack",search_object
+"place the white tool on mat",place_object
+"go to bin b",go_to_location
+"navigate to storage bin",go_to_location
+"look for the big white mug near top rack",search_object
+"place the orange screwdriver on output bin",place_object
+"set the blue screwdriver on mat",place_object
+"place the blue cube on carton",place_object
+"fetch the small black clean ball from tool stand and put it on station three",pick_and_place
+"bring the small red apple",pick_object
+"bring the medium orange light screwdriver from bottom rack and put it on shelf two",pick_and_place
+"grab the large white heavy bottle from zone a and set it on tray three",pick_and_place
+"place the green jar on packing area",place_object
+"navigate to right shelf",go_to_location
+"grab the tiny blue mug",pick_object
+"locate the large white cube near zone b",search_object
+"take the tiny orange ball",pick_object
+"navigate to table two",go_to_location
+"place the black mug on basket",place_object
+"go to station one",go_to_location
+"navigate to workbench",go_to_location
+"fetch the large blue ball",pick_object
+"go to tray one",go_to_location
+"pick the big orange bottle",pick_object
+"place the green apple on tray three",place_object
+"search for the tiny brown wrench near workbench",search_object
+"bring the big gray clean book from left shelf and set it on container",pick_and_place
+"take the big blue tool",pick_object
+"go to top rack",go_to_location
+"place the brown apple on carton",place_object
+"locate the large orange banana near tool stand",search_object
+"look for the big gray spoon near left shelf",search_object
+"navigate to storage bin",go_to_location
+"place the green marker on assembly table",place_object
+"place the brown box on desk",place_object
+"bring the large purple cube",pick_object
+"drop the orange tool on bin c",place_object
+"drop the brown mug on basket",place_object
+"fetch the large black clean apple from table two and place it on target box",pick_and_place
+"place the black screwdriver on bin c",place_object
+"place the yellow remote on container",place_object
+"look for the medium green marker near workbench",search_object
+"grab the big purple clean plate from station one and drop it on tray three",pick_and_place
+"place the yellow cup on drop tray",place_object
+"pick the small green glass block from drawer and put it on station three",pick_and_place
+"locate the tiny green cup near workbench",search_object
+"grab the big brown wrench",pick_object
+"take the tiny orange round can from storage bin and put it on shelf two",pick_and_place
+"grab the medium yellow spoon",pick_object
+"place the brown packet on packing area",place_object
+"look for the large purple jar near left shelf",search_object
+"drop the blue can on shelf two",place_object
+"locate the medium orange ball near top rack",search_object
+"fetch the big white box",pick_object
+"set the red ball on assembly table",place_object
+"locate the tiny green box near top rack",search_object
+"go to bottom rack",go_to_location
+"find the large green block near top rack",search_object
+"fetch the large red ball",pick_object
+"go to table one",go_to_location
+"place the black marker on holder",place_object
+"locate the big red marker near zone b",search_object
+"go to bottom rack",go_to_location
+"bring the large gray metal banana from storage bin and put it on desk",pick_and_place
+"go to drawer",go_to_location
+"look for the large orange jar near bottom rack",search_object
+"find the big black can near station one",search_object
+"pick the small white clean block from kitchen counter and drop it on packing area",pick_and_place
+"go to top rack",go_to_location
+"move to left shelf",go_to_location
+"fetch the tiny yellow fragile cube from tray one and put it on drop tray",pick_and_place
+"fetch the big white mug",pick_object
+"drop the red book on mat",place_object
+"look for the big orange remote near drawer",search_object
+"find the tiny blue can near loading bay",search_object
+"grab the big gray ball",pick_object
+"grab the small black fragile block from bottom rack and drop it on station three",pick_and_place
+"locate the small green ball near tray one",search_object
+"take the tiny white fragile wrench from tray one and set it on basket",pick_and_place
+"fetch the medium black block",pick_object
+"fetch the large purple remote",pick_object
+"fetch the small gray block",pick_object
+"put the brown banana on basket",place_object
+"take the medium orange glass marker from table two and place it on basket",pick_and_place
+"set the purple screwdriver on target box",place_object
+"pick the small purple screwdriver",pick_object
+"find the large orange wrench near left shelf",search_object
+"fetch the tiny green round remote from top rack and drop it on inspection zone",pick_and_place
+"grab the small blue light can from drawer and drop it on assembly table",pick_and_place
+"bring the small black glass cup from tool stand and place it on container",pick_and_place
+"fetch the tiny blue mug",pick_object
+"take the big brown bottle",pick_object
+"pick the tiny brown can",pick_object
+"navigate to drawer",go_to_location
+"find the tiny purple cube near bin a",search_object
+"set the orange spoon on packing area",place_object
+"pick the medium green metal book from workbench and drop it on inspection zone",pick_and_place
+"go to station one",go_to_location
+"search for the large green box near left shelf",search_object
+"take the big orange remote",pick_object
+"take the medium red apple",pick_object
+"drop the brown block on basket",place_object
+"bring the large blue jar",pick_object
+"move to station two",go_to_location
+"move to table two",go_to_location
+"set the yellow ball on basket",place_object
+"drop the black remote on bin c",place_object
+"pick the large gray wooden apple from crate and drop it on assembly table",pick_and_place
+"put the gray screwdriver on center table",place_object
+"navigate to station two",go_to_location
+"fetch the big orange fragile marker from station two and put it on output bin",pick_and_place
+"navigate to station one",go_to_location
+"put the white can on center table",place_object
+"pick the medium blue wrench",pick_object
+"place the white block on shelf two",place_object
+"navigate to tray one",go_to_location
+"drop the white book on desk",place_object
+"fetch the small yellow clean spoon from drawer and place it on inspection zone",pick_and_place
+"go to drawer",go_to_location
+"search for the tiny blue packet near tool stand",search_object
+"fetch the large black clean banana from table two and set it on tray two",pick_and_place
+"grab the medium orange box",pick_object
+"grab the medium white fragile apple from storage bin and set it on tray two",pick_and_place
+"put the yellow cup on output bin",place_object
+"move to bin b",go_to_location
+"pick the medium blue heavy marker from bin b and put it on shelf two",pick_and_place
+"bring the tiny green fragile apple from loading bay and drop it on drop tray",pick_and_place
+"move to storage bin",go_to_location
+"navigate to storage bin",go_to_location
+"go to bin b",go_to_location
+"set the yellow jar on shelf two",place_object
+"set the red wrench on assembly table",place_object
+"look for the big orange bottle near kitchen counter",search_object
+"drop the red mug on inspection zone",place_object
+"find the tiny gray wrench near bottom rack",search_object
+"place the orange banana on target box",place_object
+"bring the tiny white screwdriver",pick_object
+"take the small white round jar from storage bin and place it on shelf two",pick_and_place
+"move to table one",go_to_location
+"place the blue bottle on container",place_object
+"pick the small red plastic tool from workbench and place it on drop tray",pick_and_place
+"search for the tiny gray jar near loading bay",search_object
+"take the tiny blue cube",pick_object
+"look for the tiny purple cube near drawer",search_object
+"grab the tiny gray can",pick_object
+"go to right shelf",go_to_location
+"fetch the medium brown light plate from bottom rack and drop it on carton",pick_and_place
+"drop the orange bottle on drop tray",place_object
+"navigate to bin b",go_to_location
+"take the tiny white wrench",pick_object
+"grab the big black screwdriver",pick_object
+"go to zone b",go_to_location
+"drop the purple ball on desk",place_object
+"move to bin a",go_to_location
+"bring the small brown mug",pick_object
+"fetch the large yellow wooden screwdriver from station one and set it on center table",pick_and_place
+"look for the big brown mug near tool stand",search_object
+"locate the medium white cup near bin a",search_object
+"grab the big yellow tool",pick_object
+"take the small white book",pick_object
+"drop the purple apple on carton",place_object
+"look for the small gray block near station two",search_object
+"place the yellow spoon on carton",place_object
+"fetch the big green tool",pick_object
+"find the small black packet near bin a",search_object
+"fetch the big white square remote from station one and drop it on drop tray",pick_and_place
+"find the big blue can near station one",search_object
+"grab the small black cube",pick_object
+"find the medium brown plate near top rack",search_object
+"bring the large gray clean plate from top rack and set it on output bin",pick_and_place
+"navigate to zone b",go_to_location
+"move to station two",go_to_location
+"locate the tiny black marker near kitchen counter",search_object
+"go to right shelf",go_to_location
+"bring the big blue round mug from tool stand and put it on tray three",pick_and_place
+"drop the yellow ball on shelf two",place_object
+"pick the small green round jar from left shelf and set it on station three",pick_and_place
+"put the green plate on shelf two",place_object
+"navigate to left shelf",go_to_location
+"put the green bottle on center table",place_object
+"drop the green bottle on station three",place_object
+"search for the medium red bottle near right shelf",search_object
+"find the small blue box near kitchen counter",search_object
+"move to right shelf",go_to_location
+"set the red bottle on inspection zone",place_object
+"find the large green book near right shelf",search_object
+"navigate to workbench",go_to_location
+"take the large black cup",pick_object
+"move to zone b",go_to_location
+"bring the tiny purple fragile screwdriver from workbench and drop it on basket",pick_and_place
+"grab the small orange wooden screwdriver from drawer and put it on bin c",pick_and_place
+"go to tool stand",go_to_location
+"bring the small gray book",pick_object
+"locate the large brown marker near zone a",search_object
+"grab the medium red remote",pick_object
+"set the blue cube on tray three",place_object
+"look for the small orange cube near bin a",search_object
+"drop the gray jar on bowl",place_object
+"take the big green round banana from loading bay and set it on mat",pick_and_place
+"grab the tiny brown packet",pick_object
+"navigate to drawer",go_to_location
+"move to left shelf",go_to_location
+"set the purple cube on drop tray",place_object
+"pick the big red glass can from drawer and put it on packing area",pick_and_place
+"place the gray book on tray two",place_object
+"place the black wrench on shelf two",place_object
+"pick the big yellow jar",pick_object
+"find the tiny purple block near tray one",search_object
+"go to bottom rack",go_to_location
+"drop the white block on assembly table",place_object
+"search for the medium green bottle near table one",search_object
+"drop the green spoon on target box",place_object
+"place the gray mug on bin c",place_object
+"set the blue cube on drop tray",place_object
+"locate the large purple block near table one",search_object
+"grab the large white mug",pick_object
+"move to bin a",go_to_location
+"set the yellow packet on station three",place_object
+"locate the big red tool near storage bin",search_object
+"place the green ball on mat",place_object
+"place the purple screwdriver on container",place_object
+"put the yellow banana on mat",place_object
+"bring the big blue cube",pick_object
+"locate the big black spoon near workbench",search_object
+"search for the medium green marker near table two",search_object
+"put the orange banana on output bin",place_object
+"pick the big brown round wrench from workbench and drop it on shelf two",pick_and_place
+"take the large orange banana",pick_object
+"grab the tiny blue tool",pick_object
+"go to bottom rack",go_to_location
+"find the tiny red screwdriver near table two",search_object
+"search for the medium brown plate near station two",search_object
+"put the white block on basket",place_object
+"find the small brown ball near bin b",search_object
+"grab the big brown can",pick_object
+"go to left shelf",go_to_location
+"bring the large gray square spoon from workbench and put it on packing area",pick_and_place
+"search for the big purple book near station one",search_object
+"take the tiny black light wrench from workbench and set it on assembly table",pick_and_place
+"fetch the big yellow heavy screwdriver from bin a and drop it on mat",pick_and_place
+"place the gray wrench on inspection zone",place_object
+"locate the big yellow mug near loading bay",search_object
+"take the tiny gray plate",pick_object
+"navigate to table two",go_to_location
+"drop the black tool on desk",place_object
+"look for the large purple tool near bin a",search_object
+"grab the big orange bottle",pick_object
+"fetch the small yellow metal tool from table two and set it on inspection zone",pick_and_place
+"pick the large purple packet",pick_object
+"move to bottom rack",go_to_location
+"move to drawer",go_to_location
+"grab the tiny red light bottle from bin b and put it on mat",pick_and_place
+"search for the large gray plate near crate",search_object
+"bring the big white light packet from tray one and set it on carton",pick_and_place
+"bring the tiny purple remote",pick_object
+"find the large gray jar near right shelf",search_object
+"put the blue cube on desk",place_object
+"search for the tiny red banana near tool stand",search_object
+"go to bin a",go_to_location
+"take the medium white cup",pick_object
+"pick the big orange metal box from workbench and set it on tray two",pick_and_place
+"grab the medium blue block",pick_object
+"bring the big black clean cube from tool stand and set it on shelf two",pick_and_place
+"grab the tiny purple marker",pick_object
+"search for the medium orange wrench near table one",search_object
+"search for the large yellow can near station two",search_object
+"locate the small blue apple near storage bin",search_object
+"place the white can on output bin",place_object
+"navigate to bin b",go_to_location
+"search for the big red remote near station one",search_object
+"pick the big purple square jar from station two and set it on desk",pick_and_place
+"grab the small blue square spoon from tool stand and put it on bin d",pick_and_place
+"move to right shelf",go_to_location
+"take the big black box",pick_object
+"place the black marker on drop tray",place_object
+"take the large purple glass ball from loading bay and put it on container",pick_and_place
+"put the green bottle on container",place_object
+"grab the medium gray metal remote from bin b and drop it on inspection zone",pick_and_place
+"place the blue ball on container",place_object
+"locate the medium yellow packet near top rack",search_object
+"pick the medium red plastic book from top rack and drop it on mat",pick_and_place
+"locate the medium blue spoon near right shelf",search_object
+"find the big white cube near table one",search_object
+"go to top rack",go_to_location
+"look for the small gray plate near table two",search_object
+"bring the big black heavy ball from bin b and put it on drop tray",pick_and_place
+"take the medium orange glass jar from drawer and put it on assembly table",pick_and_place
+"pick the big purple book",pick_object
+"put the green tool on assembly table",place_object
+"find the small red book near zone a",search_object
+"set the orange cup on inspection zone",place_object
+"move to top rack",go_to_location
+"go to crate",go_to_location
+"look for the big orange cube near kitchen counter",search_object
+"bring the small red wooden packet from loading bay and put it on holder",pick_and_place
+"search for the large brown plate near tray one",search_object
+"go to zone a",go_to_location
+"set the blue box on station three",place_object
+"take the medium red tool",pick_object
+"fetch the large green glass spoon from bottom rack and drop it on assembly table",pick_and_place
+"pick the big purple heavy bottle from bin b and put it on mat",pick_and_place
+"go to workbench",go_to_location
+"look for the large red book near bottom rack",search_object
+"locate the medium brown marker near top rack",search_object
+"go to right shelf",go_to_location
+"navigate to station two",go_to_location
+"move to left shelf",go_to_location
+"grab the tiny purple block",pick_object
+"take the small red metal tool from workbench and place it on center table",pick_and_place
+"find the large green mug near crate",search_object
+"locate the large green tool near bin b",search_object
+"set the gray marker on tray three",place_object
+"pick the large green apple",pick_object
+"go to station one",go_to_location
+"find the big purple banana near loading bay",search_object
+"grab the medium yellow spoon",pick_object
+"go to zone b",go_to_location
+"search for the big purple ball near loading bay",search_object
+"grab the medium red clean marker from tray one and drop it on holder",pick_and_place
+"look for the big gray bottle near storage bin",search_object
+"put the purple bottle on container",place_object
+"take the small blue remote",pick_object
+"take the medium red spoon",pick_object
+"put the purple cube on target box",place_object
+"navigate to station two",go_to_location
+"search for the small blue ball near drawer",search_object
+"look for the tiny blue plate near left shelf",search_object
+"fetch the tiny red fragile screwdriver from tray one and place it on drop tray",pick_and_place
+"move to tool stand",go_to_location
+"bring the tiny black cube",pick_object
+"navigate to tray one",go_to_location
+"bring the tiny gray plate",pick_object
+"drop the orange remote on center table",place_object
+"bring the tiny brown wrench",pick_object
+"go to bottom rack",go_to_location
+"place the gray packet on inspection zone",place_object
+"look for the big brown mug near station two",search_object
+"fetch the large white mug",pick_object
+"bring the tiny orange book",pick_object
+"fetch the large black plastic remote from tool stand and set it on packing area",pick_and_place
+"set the gray ball on target box",place_object
+"grab the small yellow jar",pick_object
+"pick the medium white plastic packet from zone b and drop it on station three",pick_and_place
+"put the red can on station three",place_object
+"take the medium red plastic can from bin b and drop it on bin c",pick_and_place
+"look for the big red tool near storage bin",search_object
+"set the gray marker on center table",place_object
+"move to bin b",go_to_location
+"look for the tiny black cup near table one",search_object
+"set the green marker on bin c",place_object
+"pick the big yellow marker",pick_object
+"pick the tiny white banana",pick_object
+"move to bin a",go_to_location
+"bring the medium white box",pick_object
+"move to tool stand",go_to_location
+"find the large white ball near kitchen counter",search_object
+"fetch the small gray round cube from kitchen counter and drop it on packing area",pick_and_place
+"grab the large brown round tool from right shelf and set it on tray two",pick_and_place
+"bring the small orange cup",pick_object
+"navigate to top rack",go_to_location
+"drop the brown block on holder",place_object
+"locate the small white book near top rack",search_object
+"take the medium gray block",pick_object
+"drop the green apple on packing area",place_object
+"go to drawer",go_to_location
+"search for the large white screwdriver near station one",search_object
+"navigate to tool stand",go_to_location
+"pick the big red cube",pick_object
+"fetch the tiny brown apple",pick_object
+"bring the tiny purple metal cube from zone b and drop it on station three",pick_and_place
+"take the small yellow clean bottle from top rack and put it on inspection zone",pick_and_place
+"go to station two",go_to_location
+"pick the big white cube",pick_object
+"pick the small purple banana",pick_object
+"pick the tiny green cup",pick_object
+"fetch the small blue round bottle from zone a and place it on inspection zone",pick_and_place
+"grab the small orange light cube from bin b and drop it on desk",pick_and_place
+"fetch the tiny black book",pick_object
+"drop the brown book on bin d",place_object
+"find the medium brown ball near loading bay",search_object
+"set the red remote on station three",place_object
+"take the small yellow fragile plate from zone a and put it on station three",pick_and_place
+"fetch the small purple remote",pick_object
+"pick the medium blue apple",pick_object
+"bring the small gray cube",pick_object
+"set the brown tool on container",place_object
+"find the medium red book near table two",search_object
+"bring the large brown glass tool from bin b and drop it on tray three",pick_and_place
+"navigate to tool stand",go_to_location
+"pick the large gray marker",pick_object
+"pick the big white glass book from right shelf and place it on bin d",pick_and_place
+"go to zone a",go_to_location
+"grab the tiny orange light apple from drawer and place it on tray three",pick_and_place
+"look for the big brown book near bin a",search_object
+"navigate to right shelf",go_to_location
+"set the orange remote on assembly table",place_object
+"put the white box on mat",place_object
+"bring the large brown spoon",pick_object
+"bring the large red apple",pick_object
+"put the black spoon on bin d",place_object
+"bring the medium blue metal apple from table two and put it on bin d",pick_and_place
+"look for the tiny gray ball near top rack",search_object
+"bring the big orange wooden cup from bin b and drop it on basket",pick_and_place
+"grab the medium green heavy ball from right shelf and set it on output bin",pick_and_place
+"fetch the large yellow heavy remote from bottom rack and put it on holder",pick_and_place
+"look for the large yellow marker near top rack",search_object
+"move to station one",go_to_location
+"put the brown spoon on drop tray",place_object
+"pick the big white jar",pick_object
+"fetch the small purple block",pick_object
+"navigate to tool stand",go_to_location
+"pick the tiny yellow glass banana from zone a and put it on assembly table",pick_and_place
+"go to kitchen counter",go_to_location
+"take the large yellow light tool from station one and drop it on tray three",pick_and_place
+"put the yellow remote on shelf two",place_object
+"pick the tiny green square screwdriver from bin a and drop it on drop tray",pick_and_place
+"search for the big white cube near right shelf",search_object
+"take the medium black screwdriver",pick_object
+"go to bin b",go_to_location
+"take the tiny brown plastic block from bin b and put it on output bin",pick_and_place
+"take the tiny brown remote",pick_object
+"fetch the large yellow metal can from kitchen counter and drop it on center table",pick_and_place
+"go to kitchen counter",go_to_location
+"set the yellow can on target box",place_object
+"fetch the medium white marker",pick_object
+"go to table two",go_to_location
+"look for the big gray plate near bin b",search_object
+"place the white cube on tray two",place_object
+"put the orange tool on tray three",place_object
+"put the white plate on carton",place_object
+"go to station two",go_to_location
+"fetch the big red light wrench from workbench and place it on carton",pick_and_place
+"go to zone b",go_to_location
+"set the red mug on shelf two",place_object
+"pick the medium gray remote",pick_object
+"look for the small purple remote near left shelf",search_object
+"put the orange remote on shelf two",place_object
+"take the big black spoon",pick_object
+"move to tray one",go_to_location
+"pick the small purple cube",pick_object
+"go to station one",go_to_location
+"put the black apple on station three",place_object
+"find the tiny yellow screwdriver near kitchen counter",search_object
+"search for the large red mug near top rack",search_object
+"locate the large green wrench near top rack",search_object
+"move to right shelf",go_to_location
+"place the red book on assembly table",place_object
+"go to loading bay",go_to_location
+"search for the tiny gray packet near top rack",search_object
+"fetch the small red marker",pick_object
+"bring the big yellow remote",pick_object
+"drop the white book on bin c",place_object
+"fetch the tiny green fragile marker from drawer and place it on assembly table",pick_and_place
+"look for the large brown jar near zone a",search_object
+"find the big black wrench near left shelf",search_object
+"grab the tiny blue glass cup from storage bin and set it on container",pick_and_place
+"navigate to left shelf",go_to_location
+"set the green can on container",place_object
+"search for the small orange can near drawer",search_object
+"pick the big black light screwdriver from zone b and drop it on basket",pick_and_place
+"take the small gray light book from table one and put it on shelf two",pick_and_place
+"pick the tiny yellow round bottle from top rack and place it on carton",pick_and_place
+"grab the small white light remote from right shelf and place it on basket",pick_and_place
+"set the purple mug on assembly table",place_object
+"take the small black plastic block from storage bin and drop it on packing area",pick_and_place
+"find the big green mug near storage bin",search_object
+"navigate to table two",go_to_location
+"bring the big green can",pick_object
+"go to tool stand",go_to_location
+"place the gray remote on tray three",place_object
+"pick the large green heavy banana from bottom rack and drop it on output bin",pick_and_place
+"place the purple book on shelf two",place_object
+"navigate to tool stand",go_to_location
+"look for the small purple book near station two",search_object
+"place the red tool on inspection zone",place_object
+"grab the small green wooden book from loading bay and put it on bin c",pick_and_place
+"take the large orange clean banana from loading bay and place it on station three",pick_and_place
+"set the orange tool on station three",place_object
+"navigate to crate",go_to_location
+"pick the big gray light mug from crate and place it on drop tray",pick_and_place
+"pick the medium purple light can from workbench and drop it on basket",pick_and_place
+"drop the orange apple on holder",place_object
+"move to kitchen counter",go_to_location
+"put the purple wrench on drop tray",place_object
+"navigate to right shelf",go_to_location
+"navigate to station two",go_to_location
+"move to loading bay",go_to_location
+"set the green ball on center table",place_object
+"bring the big blue light box from right shelf and put it on center table",pick_and_place
+"move to loading bay",go_to_location
+"search for the small orange bottle near station one",search_object
+"take the small white spoon",pick_object
+"place the green packet on station three",place_object
+"take the large white round book from bin a and place it on bin d",pick_and_place
+"go to table one",go_to_location
+"pick the medium brown clean jar from table two and drop it on packing area",pick_and_place
+"pick the large black apple",pick_object
+"pick the tiny gray plastic ball from zone a and drop it on bowl",pick_and_place
+"fetch the big red book",pick_object
+"fetch the medium gray wooden bottle from bottom rack and set it on station three",pick_and_place
+"grab the small purple light apple from kitchen counter and set it on container",pick_and_place
+"navigate to bottom rack",go_to_location
+"set the white block on assembly table",place_object
+"navigate to crate",go_to_location
+"take the big purple heavy apple from station two and drop it on drop tray",pick_and_place
+"put the yellow tool on desk",place_object
+"pick the tiny green plastic cube from storage bin and drop it on packing area",pick_and_place
+"bring the medium blue glass wrench from top rack and place it on packing area",pick_and_place
+"fetch the medium white mug",pick_object
+"set the green box on shelf two",place_object
+"take the medium red light jar from station two and put it on bowl",pick_and_place
+"pick the big green wooden apple from bin b and put it on holder",pick_and_place
+"move to zone a",go_to_location
+"go to workbench",go_to_location
+"look for the small purple cube near drawer",search_object
+"find the large white jar near bin b",search_object
+"take the big blue mug",pick_object
+"bring the medium blue heavy marker from station one and set it on tray two",pick_and_place
+"pick the small green clean cube from station two and drop it on bin c",pick_and_place
+"fetch the small purple plate",pick_object
+"look for the small red plate near loading bay",search_object
+"place the orange apple on tray three",place_object
+"take the large orange square banana from tool stand and place it on holder",pick_and_place
+"find the tiny brown banana near bottom rack",search_object
+"drop the orange block on station three",place_object
+"pick the small brown jar",pick_object
+"go to table two",go_to_location
+"drop the blue jar on target box",place_object
+"place the gray block on packing area",place_object
+"look for the small green box near tray one",search_object
+"put the gray apple on bin c",place_object
+"move to left shelf",go_to_location
+"bring the tiny red square apple from bin b and put it on container",pick_and_place
+"fetch the small brown fragile tool from table two and set it on carton",pick_and_place
+"put the brown marker on packing area",place_object
+"move to left shelf",go_to_location
+"look for the tiny orange ball near loading bay",search_object
+"drop the orange screwdriver on tray three",place_object
+"take the large blue wooden box from drawer and place it on station three",pick_and_place
+"pick the large blue remote",pick_object
+"search for the big orange remote near station two",search_object
+"take the large black can",pick_object
+"search for the large green mug near tool stand",search_object
+"set the purple wrench on packing area",place_object
+"locate the big green marker near storage bin",search_object
+"go to zone b",go_to_location
+"pick the small brown fragile can from table two and drop it on drop tray",pick_and_place
+"pick the small gray light block from tool stand and put it on drop tray",pick_and_place
+"place the brown remote on station three",place_object
+"take the tiny gray tool",pick_object
+"grab the big red plastic remote from right shelf and place it on assembly table",pick_and_place
+"navigate to zone b",go_to_location
+"grab the small yellow box",pick_object
+"locate the large black box near tray one",search_object
+"move to zone b",go_to_location
+"search for the tiny white block near table one",search_object
+"bring the medium brown square plate from station two and place it on target box",pick_and_place
+"move to station one",go_to_location
+"place the brown marker on tray two",place_object
+"drop the white wrench on tray two",place_object
+"fetch the medium brown clean remote from loading bay and drop it on station three",pick_and_place
+"bring the large orange bottle",pick_object
+"navigate to left shelf",go_to_location
+"fetch the medium orange glass remote from right shelf and put it on bin d",pick_and_place
+"pick the small blue round tool from loading bay and drop it on station three",pick_and_place
+"take the large black wooden marker from bottom rack and set it on bin c",pick_and_place
+"pick the small black fragile ball from station one and set it on shelf two",pick_and_place
+"go to tray one",go_to_location
+"find the medium green spoon near storage bin",search_object
+"look for the small gray banana near tray one",search_object
+"go to station one",go_to_location
+"navigate to storage bin",go_to_location
+"find the large brown tool near tray one",search_object
+"bring the large red bottle",pick_object
+"find the medium white bottle near station two",search_object
+"navigate to kitchen counter",go_to_location
+"grab the tiny black apple",pick_object
+"grab the large yellow plastic jar from station one and place it on carton",pick_and_place
+"search for the big gray packet near table two",search_object
+"drop the orange banana on holder",place_object
+"locate the tiny black ball near drawer",search_object
+"fetch the small white wooden wrench from top rack and put it on center table",pick_and_place
+"locate the large gray marker near station two",search_object
+"grab the big brown plate",pick_object
+"find the medium gray screwdriver near bottom rack",search_object
+"take the medium orange ball",pick_object
+"drop the red cup on assembly table",place_object
+"fetch the small red glass cube from storage bin and put it on station three",pick_and_place
+"fetch the large yellow wrench",pick_object
+"grab the large brown box",pick_object
+"pick the medium black remote",pick_object
+"locate the big purple packet near tray one",search_object
+"drop the green mug on bin d",place_object
+"pick the small orange screwdriver",pick_object
+"find the small yellow cup near table one",search_object
+"fetch the small purple spoon",pick_object
+"move to drawer",go_to_location
+"move to left shelf",go_to_location
+"navigate to table one",go_to_location
+"go to loading bay",go_to_location
+"put the purple book on shelf two",place_object
+"navigate to tool stand",go_to_location
+"pick the medium red cube",pick_object
+"set the purple book on shelf two",place_object
+"put the purple cup on container",place_object
+"take the tiny red book",pick_object
+"fetch the large orange block",pick_object
+"put the blue bottle on target box",place_object
+"drop the blue bottle on shelf two",place_object
+"pick the medium orange fragile packet from kitchen counter and set it on drop tray",pick_and_place
+"put the yellow remote on drop tray",place_object
+"take the small yellow clean jar from tray one and set it on packing area",pick_and_place
+"navigate to station two",go_to_location
+"go to tool stand",go_to_location
+"navigate to workbench",go_to_location
+"bring the medium green ball",pick_object
+"drop the brown can on drop tray",place_object
+"take the medium blue bottle",pick_object
+"fetch the large black square cup from right shelf and place it on container",pick_and_place
+"move to drawer",go_to_location
+"take the medium yellow jar",pick_object
+"move to station one",go_to_location
+"navigate to tool stand",go_to_location
+"pick the big gray book",pick_object
+"take the tiny purple box",pick_object
+"search for the small black marker near left shelf",search_object
+"fetch the medium white book",pick_object
+"grab the large black book",pick_object
+"look for the medium gray book near kitchen counter",search_object
+"pick the big blue plastic apple from loading bay and put it on drop tray",pick_and_place
+"pick the big gray clean screwdriver from table two and drop it on tray three",pick_and_place
+"move to kitchen counter",go_to_location
+"fetch the tiny yellow cube",pick_object
+"set the red cup on bowl",place_object
+"go to crate",go_to_location
+"fetch the tiny purple clean apple from crate and drop it on bin c",pick_and_place
+"take the big gray cup",pick_object
+"fetch the medium red marker",pick_object
+"pick the large yellow can",pick_object
+"locate the small yellow can near bin a",search_object
+"drop the green plate on drop tray",place_object
+"locate the tiny purple cube near table two",search_object
+"move to tray one",go_to_location
+"drop the orange can on bin d",place_object
+"fetch the small blue clean ball from bin a and place it on carton",pick_and_place
+"navigate to tray one",go_to_location
+"drop the white jar on basket",place_object
+"pick the large red plastic cube from tray one and set it on packing area",pick_and_place
+"go to station one",go_to_location
+"bring the medium green light remote from table two and drop it on basket",pick_and_place
+"place the red box on output bin",place_object
+"navigate to drawer",go_to_location
+"place the green mug on center table",place_object
+"navigate to zone b",go_to_location
+"go to workbench",go_to_location
+"search for the medium gray box near right shelf",search_object
+"look for the tiny yellow bottle near table one",search_object
+"take the small blue light bottle from kitchen counter and place it on assembly table",pick_and_place
+"look for the big red bottle near station two",search_object
+"locate the large black bottle near workbench",search_object
+"find the small gray jar near bottom rack",search_object
+"bring the small orange fragile tool from table two and set it on inspection zone",pick_and_place
+"pick the small orange jar",pick_object
+"look for the medium yellow packet near table two",search_object
+"search for the big green block near table two",search_object
+"search for the small purple apple near zone a",search_object
+"go to zone a",go_to_location
+"take the large white round remote from workbench and set it on container",pick_and_place
+"bring the large black heavy banana from right shelf and place it on mat",pick_and_place
+"look for the large black wrench near tool stand",search_object
+"search for the medium gray book near bin b",search_object
+"move to left shelf",go_to_location
+"bring the big blue round plate from tool stand and set it on tray two",pick_and_place
+"place the gray cube on tray two",place_object
+"locate the big orange wrench near right shelf",search_object
+"search for the tiny gray plate near zone b",search_object
+"set the white mug on mat",place_object
+"fetch the tiny blue metal cup from right shelf and drop it on container",pick_and_place
+"fetch the medium brown metal can from zone b and put it on center table",pick_and_place
+"fetch the medium black heavy can from station one and put it on shelf two",pick_and_place
+"pick the large green block",pick_object
+"bring the small brown plastic plate from drawer and drop it on bowl",pick_and_place
+"put the yellow jar on bin c",place_object
+"take the tiny red glass remote from kitchen counter and set it on inspection zone",pick_and_place
+"navigate to tray one",go_to_location
+"pick the small orange mug",pick_object
+"search for the small gray wrench near workbench",search_object
+"pick the big brown wrench",pick_object
+"fetch the big brown box",pick_object
+"pick the large purple plastic box from top rack and set it on shelf two",pick_and_place
+"pick the small green box",pick_object
+"bring the tiny red wooden apple from station two and drop it on mat",pick_and_place
+"locate the small orange bottle near table one",search_object
+"pick the medium green square book from left shelf and set it on shelf two",pick_and_place
+"take the tiny orange jar",pick_object
+"locate the small orange packet near workbench",search_object
+"move to tray one",go_to_location
+"grab the large gray fragile wrench from top rack and set it on tray two",pick_and_place
+"look for the tiny blue remote near table two",search_object
+"set the white screwdriver on packing area",place_object
+"take the small brown can",pick_object
+"pick the tiny gray fragile can from tool stand and place it on drop tray",pick_and_place
+"drop the brown wrench on bin d",place_object
+"place the blue apple on mat",place_object
+"pick the large red can",pick_object
+"fetch the big red round cup from right shelf and place it on tray two",pick_and_place
+"take the big orange remote",pick_object
+"move to storage bin",go_to_location
+"go to storage bin",go_to_location
+"bring the tiny purple glass cube from bin b and drop it on desk",pick_and_place
+"place the black tool on holder",place_object
+"place the purple box on packing area",place_object
+"grab the small blue light spoon from left shelf and place it on container",pick_and_place
+"fetch the tiny black glass ball from table one and set it on inspection zone",pick_and_place
+"pick the small blue banana",pick_object
+"bring the big orange round spoon from drawer and drop it on mat",pick_and_place
+"set the gray tool on carton",place_object
+"fetch the tiny black heavy block from drawer and set it on assembly table",pick_and_place
+"set the white banana on container",place_object
+"search for the large gray plate near workbench",search_object
+"bring the large blue wooden ball from right shelf and put it on carton",pick_and_place
+"look for the small green wrench near drawer",search_object
+"set the gray mug on bowl",place_object
+"go to bin a",go_to_location
+"pick the big gray metal can from left shelf and set it on drop tray",pick_and_place
+"drop the green tool on bowl",place_object
+"navigate to loading bay",go_to_location
+"set the green cup on output bin",place_object
+"pick the small black plate",pick_object
+"grab the small white cup",pick_object
+"take the medium green square packet from table two and place it on assembly table",pick_and_place
+"grab the medium yellow bottle",pick_object
+"place the yellow plate on holder",place_object
+"drop the green remote on output bin",place_object
+"bring the large orange book",pick_object
+"drop the white plate on inspection zone",place_object
+"place the gray apple on drop tray",place_object
+"go to workbench",go_to_location
+"set the green bottle on container",place_object
+"fetch the tiny yellow jar",pick_object
+"place the purple screwdriver on packing area",place_object
+"grab the small gray bottle",pick_object
+"set the white cube on bin d",place_object
+"fetch the large yellow plastic screwdriver from crate and set it on bin c",pick_and_place
+"grab the big black cup",pick_object
+"bring the large green ball",pick_object
+"put the white book on inspection zone",place_object
+"look for the tiny gray marker near left shelf",search_object
+"navigate to station two",go_to_location
+"drop the brown apple on station three",place_object
+"set the blue packet on drop tray",place_object
+"locate the small brown mug near right shelf",search_object
+"grab the medium black heavy spoon from tool stand and drop it on container",pick_and_place
+"take the medium brown square apple from tool stand and place it on basket",pick_and_place
+"bring the small gray glass banana from bin a and drop it on bin c",pick_and_place
+"bring the big gray metal cup from bin a and drop it on drop tray",pick_and_place
+"navigate to loading bay",go_to_location
+"move to zone b",go_to_location
+"fetch the small green block",pick_object
+"grab the big white plate",pick_object
+"place the gray screwdriver on target box",place_object
+"set the white remote on mat",place_object
+"fetch the big orange marker",pick_object
+"find the tiny black remote near bottom rack",search_object
+"pick the tiny red round can from loading bay and place it on holder",pick_and_place
+"locate the tiny orange plate near left shelf",search_object
+"search for the big gray book near station two",search_object
+"move to kitchen counter",go_to_location
+"navigate to left shelf",go_to_location
+"move to station one",go_to_location
+"navigate to top rack",go_to_location
+"pick the medium orange ball",pick_object
+"move to table one",go_to_location
+"fetch the tiny black wrench",pick_object
+"navigate to zone a",go_to_location
+"look for the small purple box near station two",search_object
+"search for the large white wrench near bin a",search_object
+"drop the green mug on shelf two",place_object
+"grab the medium green plate",pick_object
+"put the gray packet on packing area",place_object
+"grab the large black screwdriver",pick_object
+"drop the green cup on mat",place_object
+"fetch the small yellow remote",pick_object
+"set the green bottle on carton",place_object
+"take the medium blue light spoon from kitchen counter and drop it on output bin",pick_and_place
+"navigate to top rack",go_to_location
+"set the purple jar on carton",place_object
+"bring the big green metal cup from station two and drop it on tray two",pick_and_place
+"move to bin a",go_to_location
+"place the purple apple on tray three",place_object
+"move to top rack",go_to_location
+"search for the large blue block near kitchen counter",search_object
+"go to loading bay",go_to_location
+"navigate to table one",go_to_location
+"drop the brown screwdriver on tray two",place_object
+"move to table one",go_to_location
+"set the orange screwdriver on basket",place_object
+"grab the small purple bottle",pick_object
+"set the orange cup on inspection zone",place_object
+"set the brown tool on carton",place_object
+"go to bottom rack",go_to_location
+"bring the large black round cup from crate and put it on target box",pick_and_place
+"move to left shelf",go_to_location
+"set the gray plate on drop tray",place_object
+"set the blue remote on inspection zone",place_object
+"locate the medium orange ball near zone b",search_object
+"search for the tiny purple cube near table two",search_object
+"put the red apple on output bin",place_object
+"locate the large yellow jar near workbench",search_object
+"pick the large blue square packet from top rack and put it on bin c",pick_and_place
+"locate the big black screwdriver near crate",search_object
+"bring the small brown square book from table one and put it on output bin",pick_and_place
+"bring the tiny yellow light screwdriver from zone b and drop it on bin d",pick_and_place
+"bring the big blue square apple from loading bay and drop it on output bin",pick_and_place
+"navigate to tool stand",go_to_location
+"grab the medium black metal can from right shelf and drop it on holder",pick_and_place
+"take the tiny yellow metal packet from station one and place it on center table",pick_and_place
+"navigate to bin b",go_to_location
+"bring the tiny brown tool",pick_object
+"locate the small orange book near tool stand",search_object
+"navigate to zone b",go_to_location
+"go to table one",go_to_location
+"fetch the tiny brown mug",pick_object
+"move to left shelf",go_to_location
+"fetch the medium brown can",pick_object
+"go to bottom rack",go_to_location
+"search for the big white marker near loading bay",search_object
+"grab the tiny black wrench",pick_object
+"move to table two",go_to_location
+"fetch the tiny gray wrench",pick_object
+"fetch the tiny white clean block from bin a and place it on basket",pick_and_place
+"set the white banana on container",place_object
+"take the small gray block",pick_object
+"navigate to bottom rack",go_to_location
+"grab the large blue cup",pick_object
+"pick the big purple light banana from station one and put it on tray three",pick_and_place
+"pick the large green cube",pick_object
+"navigate to bin a",go_to_location
+"search for the medium gray apple near station one",search_object
+"bring the large orange round plate from left shelf and set it on center table",pick_and_place
+"drop the green tool on target box",place_object
+"locate the big blue banana near drawer",search_object
+"go to station one",go_to_location
+"put the gray plate on bin d",place_object
+"pick the small purple jar",pick_object
+"set the yellow cube on tray three",place_object
+"set the orange bottle on target box",place_object
+"put the red marker on center table",place_object
+"set the red book on drop tray",place_object
+"drop the brown book on assembly table",place_object
+"navigate to bottom rack",go_to_location
+"fetch the medium brown square spoon from station two and put it on bin c",pick_and_place
+"fetch the medium red mug",pick_object
+"grab the tiny green fragile marker from loading bay and put it on bowl",pick_and_place
+"pick the big white plastic plate from bin a and drop it on center table",pick_and_place
+"take the small brown block",pick_object
+"look for the large yellow apple near station one",search_object
+"grab the small purple wrench",pick_object
+"fetch the medium purple square box from bin a and put it on inspection zone",pick_and_place
+"take the tiny blue plate",pick_object
+"fetch the small orange plastic wrench from station one and set it on bin d",pick_and_place
+"drop the black mug on carton",place_object
+"set the yellow packet on bin d",place_object
+"navigate to left shelf",go_to_location
+"move to station two",go_to_location
+"move to right shelf",go_to_location
+"navigate to left shelf",go_to_location
+"take the small blue plastic jar from tool stand and put it on output bin",pick_and_place
+"move to zone b",go_to_location
+"grab the tiny purple glass remote from table two and drop it on desk",pick_and_place
+"move to table one",go_to_location
+"take the big purple remote",pick_object
+"set the blue plate on mat",place_object
+"pick the large brown book",pick_object
+"drop the orange cube on holder",place_object
+"move to storage bin",go_to_location
+"fetch the small red wrench",pick_object
+"put the gray apple on holder",place_object
+"navigate to tool stand",go_to_location
+"fetch the medium white bottle",pick_object
+"search for the tiny green screwdriver near top rack",search_object
+"take the small green wooden screwdriver from left shelf and put it on drop tray",pick_and_place
+"navigate to storage bin",go_to_location
+"search for the small purple jar near station two",search_object
+"grab the large red round cube from tray one and put it on tray two",pick_and_place
+"fetch the medium green packet",pick_object
+"take the tiny white heavy jar from storage bin and put it on drop tray",pick_and_place
+"move to bin b",go_to_location
+"grab the medium white heavy jar from workbench and place it on center table",pick_and_place
+"pick the big red plate",pick_object
+"set the orange spoon on tray two",place_object
+"pick the big yellow mug",pick_object
+"bring the tiny black bottle",pick_object
+"drop the red marker on target box",place_object
+"put the brown bottle on bowl",place_object
+"find the tiny gray jar near drawer",search_object
+"navigate to right shelf",go_to_location
+"bring the big gray mug",pick_object
+"bring the tiny purple wooden screwdriver from bottom rack and drop it on assembly table",pick_and_place
+"search for the medium green jar near tray one",search_object
+"move to tool stand",go_to_location
+"locate the small yellow bottle near left shelf",search_object
+"move to zone b",go_to_location
+"move to drawer",go_to_location
+"drop the blue banana on tray three",place_object
+"go to crate",go_to_location
+"find the medium green ball near workbench",search_object
+"grab the medium brown jar",pick_object
+"navigate to bin a",go_to_location
+"fetch the medium black light jar from zone b and set it on drop tray",pick_and_place
+"grab the big white glass packet from crate and drop it on holder",pick_and_place
+"grab the large red wooden mug from tray one and drop it on carton",pick_and_place
+"look for the tiny brown ball near kitchen counter",search_object
+"fetch the large brown wrench",pick_object
+"fetch the medium yellow box",pick_object
+"place the white box on carton",place_object
+"take the tiny white glass apple from station two and drop it on drop tray",pick_and_place
+"bring the large yellow plastic can from storage bin and place it on tray two",pick_and_place
+"set the red cube on drop tray",place_object
+"move to storage bin",go_to_location
+"search for the medium brown jar near tray one",search_object
+"take the small yellow cup",pick_object
+"pick the large red plastic jar from bottom rack and set it on shelf two",pick_and_place
+"grab the tiny orange wrench",pick_object
+"grab the medium purple metal bottle from tool stand and put it on drop tray",pick_and_place
+"navigate to station one",go_to_location
+"find the big green packet near table two",search_object
+"navigate to zone a",go_to_location
+"locate the medium gray banana near table two",search_object
+"go to storage bin",go_to_location
+"take the big yellow heavy plate from bin a and place it on target box",pick_and_place
+"bring the big orange metal spoon from station two and place it on carton",pick_and_place
+"navigate to tray one",go_to_location
+"pick the small black cup",pick_object
+"locate the big white block near zone a",search_object
+"move to crate",go_to_location
+"search for the tiny white tool near zone b",search_object
+"set the blue remote on assembly table",place_object
+"navigate to crate",go_to_location
+"find the small yellow packet near top rack",search_object
+"pick the tiny gray round block from right shelf and put it on holder",pick_and_place
+"grab the big purple glass apple from bottom rack and place it on bin c",pick_and_place
+"pick the medium green square remote from table one and set it on mat",pick_and_place
+"go to crate",go_to_location
+"grab the big brown jar",pick_object
+"find the medium black mug near drawer",search_object
+"navigate to top rack",go_to_location
+"look for the tiny white tool near top rack",search_object
+"bring the large yellow fragile plate from table one and put it on inspection zone",pick_and_place
+"place the orange wrench on assembly table",place_object
+"fetch the large blue tool",pick_object
+"place the gray wrench on drop tray",place_object
+"go to kitchen counter",go_to_location
+"take the big gray cube",pick_object
+"drop the brown wrench on holder",place_object
+"move to zone a",go_to_location
+"move to crate",go_to_location
+"place the black screwdriver on mat",place_object
+"move to top rack",go_to_location
+"set the blue screwdriver on tray three",place_object
+"navigate to tool stand",go_to_location
+"locate the medium gray cup near kitchen counter",search_object
+"pick the small yellow can",pick_object
+"go to tray one",go_to_location
+"drop the red block on inspection zone",place_object
+"pick the large green packet",pick_object
+"move to drawer",go_to_location
+"fetch the small yellow tool",pick_object
+"navigate to zone b",go_to_location
+"look for the tiny yellow jar near crate",search_object
+"look for the small yellow remote near loading bay",search_object
+"set the yellow jar on inspection zone",place_object
+"place the orange box on packing area",place_object
+"drop the blue ball on center table",place_object
+"bring the large green screwdriver",pick_object
+"take the tiny blue heavy book from loading bay and put it on container",pick_and_place
+"take the big black apple",pick_object
+"fetch the medium black marker",pick_object
+"take the tiny purple can",pick_object
+"set the orange tool on output bin",place_object
+"locate the big black plate near storage bin",search_object
+"go to workbench",go_to_location
+"look for the big black apple near crate",search_object
+"set the green book on holder",place_object
+"drop the white block on shelf two",place_object
+"fetch the large red light bottle from tool stand and put it on shelf two",pick_and_place
+"put the purple ball on mat",place_object
+"place the brown screwdriver on station three",place_object
+"pick the big gray can",pick_object
+"bring the tiny brown bottle",pick_object
+"look for the medium red remote near right shelf",search_object
+"go to zone a",go_to_location
+"bring the large yellow spoon",pick_object
+"put the brown cup on assembly table",place_object
+"drop the brown spoon on holder",place_object
+"locate the large yellow mug near station one",search_object
+"take the small white plastic marker from tool stand and set it on holder",pick_and_place
+"take the big purple plate",pick_object
+"put the white plate on holder",place_object
+"place the brown can on bin d",place_object
+"set the brown wrench on output bin",place_object
+"go to table two",go_to_location
+"navigate to zone a",go_to_location
+"find the small green cube near tray one",search_object
+"pick the tiny orange tool",pick_object
+"drop the brown mug on tray three",place_object
+"bring the large gray heavy can from right shelf and put it on center table",pick_and_place
+"fetch the medium blue book",pick_object
+"find the tiny black book near zone b",search_object
+"take the medium purple plate",pick_object
+"bring the medium blue plate",pick_object
+"navigate to kitchen counter",go_to_location
+"fetch the big yellow block",pick_object
+"navigate to zone b",go_to_location
+"drop the brown mug on drop tray",place_object
+"grab the tiny red metal jar from bin b and place it on desk",pick_and_place
+"search for the large purple screwdriver near kitchen counter",search_object
+"pick the big blue heavy book from drawer and put it on shelf two",pick_and_place
+"grab the tiny black round apple from tray one and drop it on inspection zone",pick_and_place
+"take the small green glass mug from zone a and set it on holder",pick_and_place
+"grab the medium brown heavy packet from right shelf and put it on bowl",pick_and_place
+"move to workbench",go_to_location
+"drop the purple screwdriver on station three",place_object
+"search for the small brown book near right shelf",search_object
+"fetch the big white fragile mug from top rack and place it on output bin",pick_and_place
+"bring the medium black heavy spoon from station one and place it on station three",pick_and_place
+"fetch the medium purple cup",pick_object
+"grab the large brown bottle",pick_object
+"put the orange plate on desk",place_object
+"move to table two",go_to_location
+"set the brown wrench on desk",place_object
+"move to top rack",go_to_location
+"go to table two",go_to_location
+"grab the small red light block from zone b and place it on tray two",pick_and_place
+"fetch the small yellow bottle",pick_object
+"grab the medium brown cube",pick_object
+"find the big yellow marker near left shelf",search_object
+"locate the small orange plate near table one",search_object
+"locate the medium brown spoon near bin a",search_object
+"bring the medium red tool",pick_object
+"move to bin a",go_to_location
+"navigate to bin b",go_to_location
+"put the gray book on packing area",place_object
+"navigate to station two",go_to_location
+"bring the large purple plastic mug from top rack and set it on inspection zone",pick_and_place
+"move to station one",go_to_location
+"drop the yellow jar on output bin",place_object
+"put the blue ball on bin d",place_object
+"go to bin b",go_to_location
+"find the large white apple near left shelf",search_object
+"set the brown remote on basket",place_object
+"bring the small yellow tool",pick_object
